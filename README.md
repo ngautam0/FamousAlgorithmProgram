@@ -1,17 +1,7 @@
-#Trailing Zeros
+#Famous Algorithm Program
 
-This repo solves the following problem in C language.
+This repo contains solutions to famous algorithms.
 
-Given a number find the number of trailing zeroes in its factorial.
+List of problems solved :-
 
-Input Format
-
-A single integer - N
-
-Output Format
-
-Print a single integer which is the number of trailing zeroes.
-
-Input Constraints
-
-1 <= N <= 1000
+1) Trailing Zeros - Given a number find the number of trailing zeroes in its factorial
